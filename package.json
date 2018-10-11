@@ -1,0 +1,15 @@
+{
+  "name": "body-parsing",
+  "version": "1.0.0",
+  "description": "http server with and without body-parser",
+  "main": "http-server-basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renzo Navarro",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
