@@ -20,6 +20,6 @@ This is just a draw in order to understand the code behind body-parsing middlewa
   Useful links:
   - [Behind the scenes of body parsing in NodeJS](https://medium.com/@09mohit1994/behind-the-scenes-of-body-parsing-in-nodejs-9c4e9f1058c3)
   - [Understanding the idea of middleware in express](https://medium.com/@adamzerner/middleware-in-express-60d75055ba8f)
-- [How body parser works](https://medium.com/@adamzerner/how-bodyparser-works-247897a93b90)
+  - [How body parser works](https://medium.com/@adamzerner/how-bodyparser-works-247897a93b90)
 
-  <a href="http://www.yahoo.com">here</a>
+  - <a target=”_blank” href="https://medium.com/@09mohit1994/behind-the-scenes-of-body-parsing-in-nodejs-9c4e9f1058c3">Behind the scenes of body parsing in NodeJS</a>
