@@ -14,7 +14,7 @@ This is just a draw in order to understand the code behind body-parsing middlewa
  * Check console logs printed in the terminal
 
 ## Specific information about environments and libraries used:
- 1. body-parser: **ReactJS**
+ 1. middleware: **body-parser**
 
 ## References:
   Useful links:
